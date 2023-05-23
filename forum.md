@@ -31,6 +31,7 @@
 |[CRDCLUB](https://crdclub.su)| OFFLINE | |
 |[CRIMENETWORK (Dark)](http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion)| ONLINE | |
 |[CRIMENETWORK (Deep)](http://crime.to)| ONLINE | |
+|[CRONOS](https://cronos.li/)| ONLINE | |
 |[CRYPTBB](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion)| ONLINE | |
 |[DARKWEB](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[DARK2WEB](https://dark2web.net)| ONLINE | |
